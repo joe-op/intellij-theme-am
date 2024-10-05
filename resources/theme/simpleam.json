@@ -1,0 +1,11 @@
+{
+  "name": "Simple AM Theme",
+  "author": "Joe Opseth",
+  "dark": false,
+  "colors": {
+    "primaryRed": "#821010"
+  },
+  "ui": {
+    "Button.background": "primaryRed"
+  }
+}
